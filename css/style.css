@@ -1,0 +1,15 @@
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.m-1{
+    border: 1px solid #73AD21;
+    padding: 20px;
+    width: 98%;
+    height: 150px;
+    margin: 10px 0;
+}
+.m-2{
+    margin-bottom: 40px;
+
+}
